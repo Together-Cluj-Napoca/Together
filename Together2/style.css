@@ -1,0 +1,43 @@
+.body {
+	background-color:LavanderBlush;
+}
+
+.header {
+		background-color:BurlyWood;
+}
+.header h1 {
+		color:White;
+		text-align:center;
+}
+.top-menu{
+		background-color:BurlyWood;
+		text-align:center;
+}
+.top-menu a {
+		text-decoration:none;
+		color:White;
+		background-color:BurlyWood;
+		padding: 20px 20px 20px 20px;
+}
+.top-menu a:hover {
+		background-color:Moccasin;
+}
+.footer {
+		background-color:BurlyWood;
+}
+.footer p {
+		text-align:center;
+		text-decoration:bold;
+}
+.text {
+	color:BurlyWood;
+}
+.formular {
+	text-align:center;
+}
+.brainstorming {
+	text-align:center;
+}
+.teamwork {
+	text-align:center;
+}
